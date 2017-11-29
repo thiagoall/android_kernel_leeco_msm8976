@@ -385,6 +385,11 @@ CONFIG_FORCE_MAX_ZONEORDER=11
 CONFIG_SECCOMP=y
 
 #
+# EssentialX Features
+#
+CONFIG_FB_MSM_MDSS_KCAL_CTRL=y
+
+#
 # Boot options
 #
 CONFIG_CMDLINE=""
